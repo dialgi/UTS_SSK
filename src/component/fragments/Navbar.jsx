@@ -1,4 +1,4 @@
-import { Icon } from "../Icon/Index";
+import { Icon } from "../icon/Index";
 import Logo from "../elements/logo";
 import { NavLink } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
